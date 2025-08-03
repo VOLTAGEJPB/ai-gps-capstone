@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ai-gps-capstone",
+  "private_key_id": "7df6af3a4c8137c8339fc22eddee6983a93e60b9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCaGXHKoeXbzKju\n7kYN6wmIvkb5xsz0ymvvg/QCmEDNL0Mgj+2qghkRYEIxGIVLKrrlnZ+SnAIkft25\nN+p2kIyNuuwlEuH4lANNouRhSjvYigoqEUx12fvIUmqLr1v9ek+lxMi8Al2fV4eJ\nSSOkGZQFxTAhFcH31ruMkUJSu9TwW+WwtJSGfp2W1CG2u8NoDEVqJGSqpg/Rc4gE\nt9rUQTUx6OF4gTvtoqEO79ZG5xJkYWD3oUavYaC74IY2f19F59WBfDJtazKSuTRX\nMxypzur1hckbX6Lm/H3xk71m68ZVy2qqshI0AWBhkr09HsCEQlOqzHZBHfaXVsyt\nqLGbsdXzAgMBAAECggEAB6bRdHx904sB17yuGX0ntTSu2ofetR2jUWUjGx6LQoT2\nbNSoukmJIXM++31vtO/zZXkNAN8ik28B5x4EfuGmO61h52SyIsEwDs1SphVlC6yt\nsjFiCLdhCK01oXz8xi/Uv52Z/WKSr9minxRUzY5VlW8ZTjNB3+K3ilR2JMczMhdn\nrQUAOYjOd+DADTbZL+umLqazLQwrkJ5h9JyNhJRtoop7Km5M4VjH76B51LuIY8bk\nbRwopzToSRXX/TXuOxVNIomkoXkwgO/ifTs7YvoueaMUJU1kVQkPtwwetDZmUH/s\n6PGPw3YB6tS+m2+hif9JNaO6iXVLZeUoQ5VVQa1a1QKBgQDIuimkwLDpjKrpCuYA\nRfbfcyVZFgIuQ6nb/ftv2FdpgyVM8iAdXVx04W9c5awUv79hf4ucXRClIHB3TkoE\n37i1avSrh0EL7VcBb/ds+n+zvgimSikLllNqFQiLWx+BV2lxTUOI+pC/xiSxzusH\nk+WlBI8/cxBhNblh5od5cWPitwKBgQDEiFqQBHKDaHr2nmqzzEGTW+yITY/xYf/1\n3sI6q9VFw+qpfzkk/VyBV+/v+3G7/wbcbBFiJ2XiDbuS8plVBbvwDCLsTnrd1Bhc\ne8SStIxzHFtq36wSW66yHt/Il1jz4aMDgqhDJ8Hw0n+DjlUbIhgenQovCpapTw7U\nzcu7imb6pQKBgA3hccfG23ULGTaMXmNeczf4iniioPv6CeEAq0aMu168hvPPOpFN\nR3t9q2nNKB03NVDUtR7XALOqjpxxeYTkw60n/EtwSvs8KmwbBg0vNW2EkqyNLFF0\nz8fiNHkOkBstpEkFgsoSKbhZR2hUWsRnYdYLfqxwlI1kXbF7c5reUH35AoGART7R\nwdp/SoOeh5RLfiwikrwZu/CwHdlsqQGip69xhpI/9RaJWNoYJM6KEKEkcpupnDJL\ncaz1/c7e3yixE77gd/SevWntaolXSAanvRT2Q3yjTSWf6Bv7knDEYlXJFqzSleMM\nTBUPBT31hbG5lMTPgMHOG8L8UI01aY9VEC/0lq0CgYEAry7QLGYlAMKDHNOII/bn\n0Pp6xh1mDL/Ag7IgqzZxZn6zYjyl1uVEdUCI9I4okGbPDlR/kltOxu+58jGMyMRK\nZPXmT/NnNBXHPzPcjFClSSvCHn/kLD+HPcNmkg7VV/Q5/DMTGDtHn9mWvaGIuvPs\nA2ED5oqsPdQrAN8NABVqrdg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-transcriber@ai-gps-capstone.iam.gserviceaccount.com",
+  "client_id": "110393794223987846279",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-transcriber%40ai-gps-capstone.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
